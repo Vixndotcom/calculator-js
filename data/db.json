@@ -1,0 +1,20 @@
+{
+
+"blogs": [
+    {
+        "title ": "My first Blog",
+        "body" : "why do we want it?\ncos we love it don't be a joy-kill",
+        "author": "alex",
+        "id": 2
+    },
+    {
+        "title ": "Love party, yaay!",
+        "body" : "why do we want it?\ncos we love it don't be a joy-kill",
+        "author": "lexa",
+        "id": 2
+    }
+
+
+
+]
+}
